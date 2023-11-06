@@ -17,7 +17,7 @@
 - 13:30～13:40	[NBDCの紹介](01_NBDC)
   - 箕輪 真理（NBDC）
 
-- 13:40～14:40	[オンラインツール PlotsOfData による箱ひげ図の作成](03_bessho-uehara)
+- 13:40～14:40	[オンラインツール PlotsOfData による箱ひげ図の作成](02_bessho-uehara)
   - 別所-上原 学（名古屋大学 高等研究院 特任助教）
   - 目標：
     - Microsoft Office Excel では描画が困難なグラフを簡単に描くことができる無料 Web ツール PlotsOfData の使い方を学びます。
